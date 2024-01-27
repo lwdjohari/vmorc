@@ -1,5 +1,5 @@
 # Vmorc JIT
-[Experimental] Implementation of LLVM Orc2 JIT for C++ Scripting Engine Library wuth scripting language of C# subset & Java 11 subset.
+[Experimental] Implementation of LLVM Orc2 JIT for C++ Scripting Engine Library with scripting language of C# subset & Java 11 subset.
 
 ## Roadmap
 1. Support scripting language using subset of C#.
